@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553205297 source:e:\iti\day10\highlight_menuwith_struct\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+
